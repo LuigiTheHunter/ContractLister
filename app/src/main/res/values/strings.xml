@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContractManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contr_details">ContrDetailsActivity</string>
+
+
+    <string name="co_title">Title</string>
+    <string name="co_company">Company</string>
+    <string-array name="co_companys">
+        <item>123energie</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
